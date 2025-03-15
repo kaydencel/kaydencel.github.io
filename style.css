@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+body {
+    font-family: Georgia, serif; 
+    text-align: center;
+    margin: 20px; 
+    padding: 10px; 
+  }
+img {
+    width:489.6px;
+    height:652.8px;
+}
+ul {
+    text-align: left;
+    list-style-position: inside;
+}
+.makeup-container {
+    background-color: #fce4ec;  
+    padding: 10px; 
+    max-width: 35%; 
+    margin: 30px auto;  
+}
+
